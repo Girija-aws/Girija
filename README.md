@@ -87,6 +87,6 @@ AWS Certified Cloud Practitioner | Solutions Architect
 I'm actively looking for **Cloud Administrator** and **Cloud Engineer** roles. Feel free to reach out!
 
 - 💼 LinkedIn: [linkedin.com/in/girijadevi](https://www.linkedin.com/in/girijadevi/)
-- 📧 Email:kotakondagirija46.com
+- 📧 Email:kotakondagirija46@gmail.com
 
 <p align="center">⭐ Thanks for visiting my profile! ⭐</p># Girija
