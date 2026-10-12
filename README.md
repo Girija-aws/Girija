@@ -52,10 +52,10 @@ I'm currently **open to opportunities as a Cloud Administrator and Cloud Enginee
 ## ☁️ Cloud Competencies
 
 - **Compute & Storage:** EC2 / VMs, S3 / Blob Storage, EBS, backups & snapshots
-- **Networking:** VPC / VNet, subnets, security groups, load balancers, DNS, VPN
+- **Networking:** VPC, subnets, security groups, load balancers, DNS, VPN
 - **Identity & Security:** IAM, RBAC, MFA, least-privilege access, encryption
-- **Automation:** Terraform, CloudFormation / ARM, shell & Python scripting
-- **Monitoring & Reliability:** CloudWatch / Azure Monitor, alerting, logging, disaster recovery
+- **Automation:** CloudFormation, shell scripting
+- **Monitoring & Reliability:** CloudWatch, alerting, logging, disaster recovery
 - **Cost Optimization:** Right-sizing, tagging, budgets and usage reviews
 
 ---
